@@ -5,6 +5,7 @@ Implementing CoarseToFine aims to practice pytorch and NLP.
 
 ## How to do it
 
+1. Fork or make your branch for this project.
 1. Read CoarseToFine paper carefully (https://arxiv.org/pdf/1805.04793.pdf).
 2. Download python3.5 (https://www.python.org/downloads/release/python-352/). This project only can be run at python 3.5.
 3. Make virtualenv (example shell commands are in below).
