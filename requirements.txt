@@ -1,0 +1,14 @@
+nltk==3.2.5
+tensorboard_logger==0.0.4
+records==0.5.2
+more_itertools==3.2.0
+torchtext==0.2.0
+torch
+six==1.11.0
+Babel==2.5.1
+tabulate==0.8.1
+tqdm==4.19.8
+numpy
+path.py==10.4
+scikit_learn
+stanza==0.3
